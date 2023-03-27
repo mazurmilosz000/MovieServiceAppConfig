@@ -1,7 +1,4 @@
 spring:
-  application:
-    name: movie-service
-
   datasource:
     url: jdbc:postgresql://localhost:1501/${DB_NAME}
     username: ${DB_USERNAME}
